@@ -1,0 +1,6 @@
+scipy>=1.2
+numpy>=1.16
+git+https://github.com/OFAI/partitura.git@develop
+Pillow>=6.2.2
+tensorly>=0.5.0
+matplotlib>=3.3.2
