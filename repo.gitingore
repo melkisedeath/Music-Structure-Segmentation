@@ -1,2 +1,3 @@
 env\
+source\__pycache__\
 *.log
