@@ -1,6 +1,7 @@
 env/
-source/__pycache__/
 artifacts/
+source/__pycache__/
+
 
 *.log
 
