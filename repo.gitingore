@@ -1,3 +1,4 @@
 env\
 source\__pycache__\
 *.log
+artifacts\
