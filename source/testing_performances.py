@@ -145,6 +145,6 @@ for file in os.listdir(MATCHSCORE_DIR):
 
 
 		im = Image.fromarray(A@A.T)
-		im.save(ARTIFACT_DIR + "Intervalic_" + os.path.splitext(file)[0] + ".jpeg")
+		im.save(ARTIFACT_DIR + "Intervalic_" + os.path.splitext(file)[0] + ".png")
 		im = Image.fromarray(B@B.T)
-		im.save(ARTIFACT_DIR + "Dynamics_" + os.path.splitext(file)[0])
+		im.save(ARTIFACT_DIR + "Dynamics_" + os.path.splitext(file)[0] + ".png")
