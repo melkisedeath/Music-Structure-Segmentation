@@ -1,8 +1,8 @@
 env/
 source/__pycache__/
-*.log
 artifacts/
 
+*.log
 
 # Environments
 .env
