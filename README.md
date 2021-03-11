@@ -69,9 +69,7 @@ To the obtained cosine Similarity matrix \(\mathcal{S}\) we will apply path smoo
 
 ![Cosine SSM smoothing and Thresoholding](./samples/Images/smoothing_and_thresh.png)
 
-```
 ![Probabilistic Hough Transform and Line Detection](./samples/Images/proba_hough_transform.png)
-```
 
 ### [ps] Performance metrics
 
