@@ -1,9 +1,13 @@
 scipy>=1.2
 numpy>=1.16
-git+https://github.com/OFAI/partitura.git@develop
 Pillow>=6.2.2
 tensorly>=0.5.0	
 matplotlib>=3.3.2
 sklearn==0.0
 matplotlib==3.2.1
 networkx==2.4
+plotly==4.13.0
+numpy==1.18.3
+metric-learn==0.6.2
+git+https://github.com/OFAI/partitura.git
+git+https://github.com/OFAI/basismixer.git
